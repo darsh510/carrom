@@ -5,6 +5,7 @@ step 2 ./game
 how to play?  
 **You will play for  white color.**  
 >rules as Scoring & penalty:
+
  - white : +10
  - queen : +50
  - black : -5
@@ -24,6 +25,7 @@ how to play?
  - space ==> hit
 
 >Mouse:
+
  - click and drag the striker ==> right mouse button.
  - long press increases speed (any button)
  - right button up ==> strike
