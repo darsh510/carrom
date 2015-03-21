@@ -1,12 +1,8 @@
 step 1 make
 step 2 ./game
-            game starts 
-
+######game starts#######
 how to play?
- 
-
 You will play for  white color.
-
 rules as Scoring & penalty:
 	white:+10
 	queen:+50
@@ -23,7 +19,6 @@ striker Controls:
 	up == speed up
 	down == speed down
 	space == hit
-
 Mouse:
 	click and drag the striker === right mouse button.
 	long press increases speed (any button)
